@@ -73,7 +73,7 @@ The landing page is fully responsive and optimized for:
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/DumbiFadhil/MuhammadFadhil_Dumbi_FrontEndDev
 cd MuhammadFadhil_Dumbi_FrontEndDev
 ```
 
